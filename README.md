@@ -1,9 +1,8 @@
-##Olá, eu sou o Marcos Melo Ferreira
+# Olá, eu sou o Marcos Melo Ferreira
 
 - 🔭 Momentaneamente me enconto em busca de novas opotunidades
-- 🌱 Estou estudando Dev Fullstack
 - 👯 Procuro contribuir em todos os projetos que for possível, de forma ativa e agregativa.
-- 📫 Contate-me pelo email: marcos_m_ferreira@outlook.com
+- 📫 Contate-me pelo email: marcos_m_ferreira@outlook.com, ou pelo Linkedin: https://www.linkedin.com/in/marcos-melo-ferreira/
 -->
 <div>
   <a href="https://github.com/Marcos9868">
