@@ -2,7 +2,8 @@
 
 - 🔭 Momentaneamente me enconto em busca de novas opotunidades
 - 👯 Procuro contribuir em todos os projetos que for possível, de forma ativa e agregativa.
-- 📫 Contate-me pelo email: marcos_m_ferreira@outlook.com, ou pelo Linkedin: https://www.linkedin.com/in/marcos-melo-ferreira/
+- Criador do servidor do Discord, chamado Projetos Práticos, que tem o intuito de ajudar iniciantes, entusiastas e estagiários a fazerem projetos em equipe.
+- Link do Convite: https://discord.gg/5SkUc3D4
 -->
 <div>
   <a href="https://github.com/Marcos9868">
