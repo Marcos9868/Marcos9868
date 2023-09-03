@@ -9,7 +9,6 @@ I make my profile available to anyone who wants to get an idea for their project
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-melo-ferreira)
 
 ![Marcos9868's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos9868&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos9868&layout=compact&theme=dark)
 
 ### Stacks:
 <div style="display: inline_block">
