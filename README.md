@@ -1,30 +1,40 @@
-# Olá, eu sou o Marcos Melo Ferreira
+## Hi guys, my name is Marcos Melo Ferreira ✋
 
-- 🔭 Momentaneamente me enconto em busca de novas opotunidades
-- 👯 Procuro contribuir em todos os projetos que for possível, de forma ativa e agregativa.
-- Criador do servidor do Discord, chamado Projetos Práticos, que tem o intuito de ajudar iniciantes, entusiastas e estagiários a fazerem projetos em equipe.
-- Link do Convite: https://discord.gg/5SkUc3D4
--->
-<div>
-  <a href="https://github.com/Marcos9868">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos9868&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos9868&layout=compact&langs_count=7&theme=dark"/>
+I am a fullstack developer, focused on creating systems for web, mobile and desktops. 
+
+I also own the company Codetech, which currently works as a software factory, consulting and developer rental. 
+
+I make my profile available to anyone who wants to get an idea for their projects, and if you want to contact me, just click the button below.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-melo-ferreira)
+
+![Marcos9868's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos9868&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos9868&layout=compact&theme=dark)
+
+### Stacks:
+<div style="display: inline_block">
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+### Frameworks and Runtimes:
+<div style="display: inline_block;">
+  <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-  
-##
-  
-<div>  
-  <a href = "mailto:marcos_m_ferreira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-melo-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Marcos9868/Marcos9868/blob/output/github-contribution-grid-snake.svg)
- 
-</div>  
+
+### Databases:
+<div style="display: inline_block;">
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+### Environment Deploy:
+<div style="display: inline_block;">
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
