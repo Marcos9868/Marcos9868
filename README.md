@@ -1,6 +1,6 @@
 ## Hi guys, my name is Marcos Melo Ferreira ✋
 
-I am a fullstack developer, focused on creating systems for web, mobile and desktops. 
+I am a Software Engineer, focused on creating systems for web, mobile and desktops. 
 
 I also own the company Codetech, which currently works as a software factory, consulting and developer rental. 
 
